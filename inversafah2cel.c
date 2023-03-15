@@ -1,6 +1,9 @@
 #include <stdio.h>
 
-/* imprime a tabela Fahrenheint para Celsius do maior para o menor
+/* 3 - Modifique o programa de conversão de temperatura para imprimir a tabela em
+ordem inversa, isto é, de 300 graus até 0 grau. (exerc. 1.5)
+
+imprime a tabela Fahrenheint para Celsius do maior para o menor
 */
  
  int main (void){
