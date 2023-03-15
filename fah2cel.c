@@ -1,6 +1,9 @@
 #include <stdio.h>
 
-/* imprime a tabela fahrenheint para Celsius
+/*2- Escreva um programa para imprimir a tabela correspondente de Celsius a Fahre-
+nheit. (exerc. 1.4) 
+
+imprime a tabela fahrenheint para Celsius
  */
  
  int main (void){
